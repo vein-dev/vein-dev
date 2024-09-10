@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Jordi Dermawan and I'm an undergraduate education student, from Universitas Negeri Malang</h2>
+<h2 align="left">Hi 👋! My name is Jordi Dermawan</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/v1.Y2lkPTc5MGI3NjExdXAzMnphanBqOWJoa3RtN2E2dTBtbWEwNWhyNXJwNXR6YjJqMDU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0yA9zHe5m29sxW/giphy.gif"  />
+<p align="left">I'm an undergraduate education student, from Universitas Negeri Malang</p>
 
 ###
 

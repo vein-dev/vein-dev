@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd6ZTF0MHhycmx4ODg4dDBoY295a3czMDFmcW4ybG1pYWg0dzE1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3V0yA9zHe5m29sxW/giphy.gif"  />
+<img align="right" height="150" src="https://giphy.com/gifs/halloween-dark-skull-l3V0yA9zHe5m29sxW"  />
 
 ###
 

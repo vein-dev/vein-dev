@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordi Dermawan</h1>
-<h3 align="center">Jus an ordinary mant</h3>
+<h3 align="center">Jus an ordinary man</h3>
 
 - 💬 Ask me about **Javascript, Typescript, Virtual Reality, EduTech**
 
